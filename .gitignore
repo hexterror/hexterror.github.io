@@ -1,6 +1,45 @@
 # This is git ignoring file.
 # putting file name into this file will be ignored.
 .DS_Store
+._*
+Thumbs.db
 # Development
 .env
+.cache
+.jekyll-cache
+.ruby-version
+.sass-cache
+.jekyll-cache
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
 *.swp
+*.vi
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+.idea
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# grunt-html-validation
+validation-status.json
+validation-report.json
+
+# Folders to ignore
+node_modules
+tools
+LICENSE
+
+# dist files
+build
+_site*
