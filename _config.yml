@@ -2,14 +2,12 @@
 title: Hex Terror
 tagline: The Team Terror
 url: https://hexterror.github.io
-paginate: 1
 baseurl: ""
 permalink: pretty
 
 # Gems
 plugins:
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-seo-tag
 
 # Optimize Jekyll

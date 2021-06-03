@@ -1,6 +1,8 @@
 # Ignore docs files
 _gh_pages
 _site
+build
+!tools/build
 .ruby-version
 .sass-cache
 .jekyll-cache
