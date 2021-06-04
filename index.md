@@ -3,7 +3,9 @@ layout: page
 title: Home
 ---
 
-<p class="message-white">Hey there! We are HexTerror</p>
+<img class="main_logo shadow" src="assets/hexterror.svg" alt="logo" />
+
+<p class="message-teal shadow">If you can dream it, you can do it</p>
 
 Collaborating with a community is about more than developing code.
 Collaboration is the freedom to ask questions and offer
@@ -21,6 +23,14 @@ Here are our some project:
   <br/>The project we are working on.
 
 - [Library Development Environment](https://github.com/hexterror/library-runner)
+
+#### Members
+
+- [mahafujul](https://github.com/mahafujul)
+- [mrinjamul](https://github.com/mrinjamul)
+- [Rocksudeep](https://github.com/Rocksudeep)
+- [bhaskar2427](https://github.com/bhaskar2427)
+- [sharifbit](https://github.com/sharifbit)
 
 ## Want to contribute?
 
