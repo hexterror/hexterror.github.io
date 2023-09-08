@@ -17,23 +17,27 @@ make something together.
 
 ## Repositories
 
-Here are our some project:
+What we do:
+
+- Currently working on something awesome. ! <3
+
+Here are some old projects:
 
 - Library Management System
   <br/>The project we are working on.
 
 - [Library Development Environment](https://github.com/hexterror/library-runner)
 
+
 #### Members
 
 - [mahafujul](https://github.com/mahafujul)
 - [mrinjamul](https://github.com/mrinjamul)
-- [Rocksudeep](https://github.com/Rocksudeep)
-- [bhaskar2427](https://github.com/bhaskar2427)
-- [sharifbit](https://github.com/sharifbit)
 
 ## Want to contribute?
 
 Learn more and contribute on [GitHub](https://github.com/hexterror).
 
-Have questions or suggestions? Feel free to [email](mailto:) us.
+Have questions or suggestions? Feel free to [email](mailto:mrinjamul.nft@ud.me) us.
+
+<p style="text-align: center;">Copyright © 2020-23</p>
